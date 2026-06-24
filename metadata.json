@@ -1,0 +1,6 @@
+{
+  "name": "Hybrid Threat Intelligence Hub",
+  "description": "A modern, professional cybersecurity interface that visualizes signature-based and machine learning malware analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
